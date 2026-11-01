@@ -1,0 +1,45 @@
+P001,Wireless Bluetooth Earbuds,Electronics,590
+P002,Smartphone Fast Charger 20W,Electronics,299
+P003,Power Bank 10000mAh,Electronics,690
+P004,Mechanical Keyboard RGB,Electronics,1490
+P005,Wireless Mouse Silent,Electronics,350
+P006,USB-C Cable 1m,Electronics,89
+P007,Gaming Headset 7.1,Electronics,1290
+P008,Smart Watch Fitness Band,Electronics,1190
+P009,Portable Bluetooth Speaker,Electronics,790
+P010,Laptop Stand Aluminium,Electronics,450
+P011,Men Cotton T-Shirt Black,Fashion,199
+P012,Women Floral Dress,Fashion,459
+P013,Unisex Hoodie Oversize,Fashion,599
+P014,Canvas Sneakers White,Fashion,790
+P015,Leather Wallet Men,Fashion,390
+P016,Crossbody Bag Women,Fashion,650
+P017,Baseball Cap Black,Fashion,159
+P018,Denim Jeans Slim Fit,Fashion,690
+P019,Non-Stick Frying Pan 28cm,Home & Living,399
+P020,Electric Kettle 1.7L,Home & Living,550
+P021,Memory Foam Pillow,Home & Living,490
+P022,LED Desk Lamp,Home & Living,390
+P023,Storage Box Set of 3,Home & Living,259
+P024,Bath Towel Cotton,Home & Living,220
+P025,Air Fryer 4L,Home & Living,1890
+P026,Aloe Vera Facial Cleanser,Beauty,159
+P027,Sunscreen SPF50 PA+++,Beauty,329
+P028,Matte Lipstick Rose,Beauty,249
+P029,Hair Serum Argan Oil,Beauty,279
+P030,Vitamin C Serum,Beauty,450
+P031,Yoga Mat 6mm,Sports,390
+P032,Adjustable Dumbbell 10kg,Sports,890
+P033,Running Shoes Lightweight,Sports,1590
+P034,Sports Water Bottle 1L,Sports,179
+P035,Badminton Racket Set,Sports,690
+P036,Jump Rope Speed,Sports,99
+P037,Python Programming for Beginners,Books,420
+P038,Data Structures and Algorithms,Books,550
+P039,Harry Potter Box Set,Books,2490
+P040,Thai Cooking Recipes,Books,320
+P041,Lego City Police Station,Toys,1890
+P042,Remote Control Car,Toys,690
+P043,Jigsaw Puzzle 1000 pcs,Toys,290
+P044,Plush Teddy Bear 40cm,Toys,250
+P045,Building Blocks 500 pcs,Toys,399
